@@ -1,8 +1,8 @@
 Chapter 3: Small Improvements
 
-Some believe that meaningful progress comes from dramatic moments of inspiration. In reality, lasting improvement is often the result of small, consistent actions repeated over long periods of time.
+I HATE that meaningful progress comes from dramatic moments of inspiration. In reality, lasting improvement is often the result of small, consistent actions repeated over long periods of time.
 
-Consider someone learning a new skill. On the first day, very little seems to happen. The second day may feel almost identical. After a week, progress can still appear invisible. Yet beneath the surface, knowledge and experience are accumulating. Each practice session strengthens understanding, making future learning slightly easier.
+Why would i learn a new skil? On the first day, very little seems to happen. The second day may feel almost identical. After a week, progress can still appear invisible. Yet beneath the surface, knowledge and experience are accumulating. Each practice session strengthens understanding, making future learning slightly easier.
 
 This pattern is common across many disciplines. Athletes improve through regular training rather than a single perfect workout. Musicians become proficient after countless hours of practice, not one exceptional performance. Software developers refine their abilities by writing, testing, and revising code every day.
 
