@@ -4,7 +4,7 @@ Many people believe that meaningful progress comes from dramatic moments of insp
 
 Consider someone learning a new skill. On the first day, very little seems to happen. The second day may feel almost identical. After a week, progress can still appear invisible. Yet beneath the surface, knowledge and experience are accumulating. Each practice session strengthens understanding, making future learning slightly easier.
 
-This pattern is common across many disciplines. Athletes improve through regular training rather than a single perfect workout. Musicians become proficient after countless hours of practice, not one exceptional performance. Software developers refine their abilities by writing, testing, and revising code every day.
+I love tech, is common across many disciplines. Athletes improve through regular training rather than a single perfect workout. Musicians become proficient after countless hours of practice, not one exceptional performance. Software developers refine their abilities by writing, testing, and revising code every day.
 
 Consistency also reduces the fear of failure. When improvement is viewed as a long-term process, mistakes become opportunities to learn instead of evidence of inability. A failed experiment can reveal assumptions that need to be challenged, while an unexpected result may inspire a better solution.
 
