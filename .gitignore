@@ -1,0 +1,26 @@
+# Ignore Python virtual environment folders and common artifacts
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Model files (if you prefer to keep them out of repo, uncomment)
+# yolo11n.onnx
+# yolo11n.pt

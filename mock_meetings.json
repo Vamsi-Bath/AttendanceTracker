@@ -1,0 +1,10 @@
+[
+  {
+    "meetingId": "meeting-003",
+    "roomId": "room-101",
+    "startTime": "2026-08-11T11:08:00+01:00",
+    "endTime": "2026-08-11T11:10:00+01:00",
+    "roomCapacity": 12,
+    "roomAreaM2": 24.5
+  }
+]
