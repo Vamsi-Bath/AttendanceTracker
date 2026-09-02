@@ -1,3 +1,4 @@
-# GitHub Tutorial
+# Attendance tracking app
 
-Practice Git workflows including branching, commits, merges, pull requests, and tests.
+Attendance tracking app. Counting people and sending reports via http requests
+
